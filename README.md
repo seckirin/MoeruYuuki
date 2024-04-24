@@ -4,7 +4,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuukisec/yuukisec/output/github-contribution-grid-snake.svg">
 </picture>
 
-### Hi there 👋
+### Hi 👋, I'm Yuuki
+
+- 🌱 I’m currently learning **Penetration Testing. Bug Bounty.**
+- 👨‍💻 All of my projects are available at [https://github.com/yuukisec](https://github.com/yuukisec)
+- 📝 I regularly write articles on [https://xlog.yuukiz.com/](https://xlog.yuukiz.com/)
+- Work smarter, not harder.
 
 <!--
 **yuukisec/yuukisec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
