@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [使用 Apache 和 Nginx 部署测试反向代理](https://xlog.app/api/redirection?characterId=69223&noteId=2)
+- [通过 HTTP 特征收集根域名资产](https://xlog.app/api/redirection?characterId=69223&noteId=1)
 <!-- BLOG-POST-LIST:END -->
