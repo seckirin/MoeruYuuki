@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Penetration Testing. Bug Bounty.**
 - 👨‍💻 All of my projects are available at [https://github.com/yuukisec](https://github.com/yuukisec)
 - 📝 I regularly write articles on [https://xlog.yuukiz.com/](https://xlog.yuukiz.com/)
-- Work smarter, not harder.
+- Where you stumble, there’s your bed
 
 ![yuukisec](https://count.getloli.com/get/@yuukisec?theme=rule34)
 
