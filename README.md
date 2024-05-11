@@ -4,12 +4,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuukisec/yuukisec/output/github-contribution-grid-snake.svg">
 </picture>
 
-### Hi 👋, I'm Yuuki ![](https://komarev.com/ghpvc/?username=yuukisec&color=orange)
+**👋 Hi, I'm Yuuki** <!-- ![](https://komarev.com/ghpvc/?username=yuukisec&color=orange) -->
 
-- 🌱 I’m currently learning **Penetration Testing. Bug Bounty.**
+- 🌱 I’m currently planning to hack the world.
 - 👨‍💻 All of my projects are available at [https://github.com/yuukisec](https://github.com/yuukisec)
-- 📝 I regularly write articles on [https://xlog.yuukiz.com/](https://xlog.yuukiz.com/)
-- Where you stumble, there’s your bed
+- 📝 I occasionally write articles on [https://xlog.yuukiz.com/](https://xlog.yuukiz.com/)
+- 📙 I have some insights and experiences on [https://bbhg.yuukiz.com](https://bbhg.yuukiz.com)
+- I have a habit of sleeping where I fall.
 
 ![yuukisec](https://count.getloli.com/get/@yuukisec?theme=rule34)
 
