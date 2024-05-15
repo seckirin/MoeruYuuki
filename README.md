@@ -7,9 +7,9 @@
 **👋 Hi, I'm Yuuki** <!-- ![](https://komarev.com/ghpvc/?username=yuukisec&color=orange) -->
 
 - 🌱 I’m currently planning to hack the world.
-- 👨‍💻 All of my projects are available at [https://github.com/yuukisec](https://github.com/yuukisec)
-- 📙 I have some insights and experiences on [https://bbhg.yuukiz.com](https://bbhg.yuukiz.com)
-- 📝 I occasionally write articles on [https://xlog.yuukiz.com/](https://xlog.yuukiz.com/)
+- 👨‍💻 All of my projects are available at <https://github.com/yuukisec>
+- 📙 I have some insights and experiences on [Bug Bounty Hunter Guide](https://bbhg.yuukiz.com)
+- 📝 I occasionally write articles on <https://xlog.yuukiz.com/>
 - 💤 I have a habit of sleeping where I fall.
 
 ![yuukisec](https://count.getloli.com/get/@yuukisec?theme=rule34)
