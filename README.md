@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently planning to hack the world.
 - 👨‍💻 All of my projects are available at [https://github.com/yuukisec](https://github.com/yuukisec)
-- 📝 I occasionally write articles on [https://xlog.yuukiz.com/](https://xlog.yuukiz.com/)
 - 📙 I have some insights and experiences on [https://bbhg.yuukiz.com](https://bbhg.yuukiz.com)
-- I have a habit of sleeping where I fall.
+- 📝 I occasionally write articles on [https://xlog.yuukiz.com/](https://xlog.yuukiz.com/)
+- 💤 I have a habit of sleeping where I fall.
 
 ![yuukisec](https://count.getloli.com/get/@yuukisec?theme=rule34)
 
