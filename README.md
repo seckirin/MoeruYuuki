@@ -18,6 +18,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [深入理解 HTTPS 证书](https://xlog.app/api/redirection?characterId=69223&noteId=9)
 - [使用 Apache 和 Nginx 部署测试反向代理](https://xlog.app/api/redirection?characterId=69223&noteId=2)
 - [通过 HTTP 特征收集根域名资产](https://xlog.app/api/redirection?characterId=69223&noteId=1)
 <!-- BLOG-POST-LIST:END -->
