@@ -18,6 +18,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[Reprinted] My Bug Bounty Journey &amp; Ranking 1st in U.S. DoD &amp; Achieving top 100 hackers in 1 year](https://xlog.app/api/redirection?characterId=69223&noteId=11)
 - [深入理解 HTTPS 证书](https://xlog.app/api/redirection?characterId=69223&noteId=9)
 - [使用 Apache 和 Nginx 部署测试反向代理](https://xlog.app/api/redirection?characterId=69223&noteId=2)
 - [通过 HTTP 特征收集根域名资产](https://xlog.app/api/redirection?characterId=69223&noteId=1)
